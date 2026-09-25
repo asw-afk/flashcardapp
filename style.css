@@ -1,0 +1,11 @@
+
+
+.Card { 
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+   
+}
